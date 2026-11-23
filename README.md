@@ -1,24 +1,23 @@
-<table>
-<tr>
-<td width="44%">
-<img src="assets/portrait.png" alt="ASCII portrait of Dimitris Symeonidis" width="100%">
-</td>
-<td>
-
-<table>
-<tr><td><b>Name</b></td><td>Dimitris Symeonidis</td></tr>
-<tr><td><b>Role</b></td><td>Computer Science student: AI/ML and full-stack</td></tr>
-<tr><td><b>Study</b></td><td>B.Sc. Computer Science, University of Piraeus (final year)</td></tr>
-<tr><td><b>Thesis</b></td><td>Small language models and RAG on financial filings</td></tr>
-<tr><td><b>Location</b></td><td>Athens, Greece</td></tr>
-<tr><td><b>Open to</b></td><td>Internships in applied AI and software engineering</td></tr>
-<tr><td><b>Languages</b></td><td>Greek, Bulgarian (native); English (C1)</td></tr>
-<tr><td><b>Contact</b></td><td><a href="https://linkedin.com/in/jimsym">LinkedIn</a></td></tr>
-</table>
-
-</td>
-</tr>
-</table>
+```text
+                   .:*%%%#=:::
+               =#%%%%%%%%%%%%%%=
+             +%%%%%%%#%%######%%%:
+           +%%%%%%%%%##########%%%=           Dimitris Symeonidis
+          -     .=+=%%########%%%%%
+          +:  ....::#%%%%%%##%%%%%+           Role       CS student, AI/ML + full-stack
+          ++ -%%%++++*%%%%%%%%%%%*            Study      B.Sc. Computer Science,
+            .--::.=+=::+%%%%%%%%#                        University of Piraeus
+ . ..      :---.      ..=%%%%%%#              Thesis     Small language models and
+*%%*-.=:  =%%#-   .:---+*#*%%%+                          RAG on financial filings
+::       . -=*++-:::--=*%*.+%+                Location   Athens, Greece
+.        ..+++--=:-=+=*#*+%%%:                Open to    Applied AI and software
+%%#=:    .=----+++*%%#*+==%-                             engineering internships
+#%%%%%%:  :*%%%%%%%%#++=:#= .                 Languages  Greek, Bulgarian, English C1
+#%%%%%%%#-    :-+#%#+=--#-  .  :%=            Contact    linkedin.com/in/jimsym
+*###%%%%%%%=      .:+*+%-      %%%%%##
+######%%%%%%%%+: :   -#+     =%%%%%%%%%*
+##########%%%%%%#+-.  ::-+=+%%%%%######%%*
+```
 
 ## Projects
 
