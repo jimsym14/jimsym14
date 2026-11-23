@@ -1,23 +1,20 @@
 <table>
 <tr>
 <td width="44%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png">
-  <img src="assets/portrait-light.png" alt="ASCII portrait of Dimitris Symeonidis" width="100%">
-</picture>
+<img src="assets/portrait.png" alt="ASCII portrait of Dimitris Symeonidis" width="100%">
 </td>
 <td>
 
-| | |
-|---|---|
-| **Name** | Dimitris Symeonidis |
-| **Role** | Computer Science student: AI/ML and full-stack |
-| **Study** | B.Sc. Computer Science, University of Piraeus (final year) |
-| **Thesis** | Small language models and RAG on financial filings |
-| **Location** | Athens, Greece |
-| **Open to** | Internships in applied AI and software engineering |
-| **Languages** | Greek, Bulgarian (native); English (C1) |
-| **Contact** | [LinkedIn](https://linkedin.com/in/jimsym) |
+<table>
+<tr><td><b>Name</b></td><td>Dimitris Symeonidis</td></tr>
+<tr><td><b>Role</b></td><td>Computer Science student: AI/ML and full-stack</td></tr>
+<tr><td><b>Study</b></td><td>B.Sc. Computer Science, University of Piraeus (final year)</td></tr>
+<tr><td><b>Thesis</b></td><td>Small language models and RAG on financial filings</td></tr>
+<tr><td><b>Location</b></td><td>Athens, Greece</td></tr>
+<tr><td><b>Open to</b></td><td>Internships in applied AI and software engineering</td></tr>
+<tr><td><b>Languages</b></td><td>Greek, Bulgarian (native); English (C1)</td></tr>
+<tr><td><b>Contact</b></td><td><a href="https://linkedin.com/in/jimsym">LinkedIn</a></td></tr>
+</table>
 
 </td>
 </tr>
