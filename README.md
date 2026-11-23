@@ -1,34 +1,27 @@
-```text
-                        +:...:+# #
-                   =:..............*
-                 =..................:
-               +......................
-              -=*##+-..................
-              -%@@@@@#=-..............+
-             #..*+...:--:.............
-              =+%=::.-..:=-..........
-             @@%*++###***#%+........
-    *=:.:-+*%%+::-=%%@%##**+-......#
-  @*..:+%#=-*=:...=***+===-..:=...
-  @@@@@@@@@%%=*==:::-+--:::..:=..
-  :.-*#@@@@@@--::-++--......--..:*
-  ......:+#@@+.:::........:-+:.+#@@
-  :........:%@*-.........:-+=.##*@@+
-*:...........-#@@#+=-...:=+=.*@+#@@..=
-................=%@%#*+=:::.*@@@@@=.......
-..................:*%*@@#=.+@@%@#:.........-
-.....................-+#%@#*=--:.............
-........................:-+...................
-.........................:-....................
-```
+<table>
+<tr>
+<td width="44%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png">
+  <img src="assets/portrait-light.png" alt="ASCII portrait of Dimitris Symeonidis" width="100%">
+</picture>
+</td>
+<td>
 
-# Dimitris Symeonidis
+| | |
+|---|---|
+| **Name** | Dimitris Symeonidis |
+| **Role** | Computer Science student: AI/ML and full-stack |
+| **Study** | B.Sc. Computer Science, University of Piraeus (final year) |
+| **Thesis** | Small language models and RAG on financial filings |
+| **Location** | Athens, Greece |
+| **Open to** | Internships in applied AI and software engineering |
+| **Languages** | Greek, Bulgarian (native); English (C1) |
+| **Contact** | [LinkedIn](https://linkedin.com/in/jimsym) |
 
-Final-year Computer Science student at the University of Piraeus, Greece.
-I build AI/ML systems and full-stack software.
-I am open to internships in applied AI and software engineering.
-
-[LinkedIn](https://linkedin.com/in/jimsym)
+</td>
+</tr>
+</table>
 
 ## Projects
 
@@ -60,12 +53,3 @@ Correct placement and rotation on 6 of 7 test images.
 - **AI/ML:** PyTorch, scikit-learn, RAG, Ollama, ChromaDB, Ragas
 - **Web and mobile:** React, Next.js, Node.js, SwiftUI, Android, Firebase, Ruby on Rails
 - **Tools:** Git, Docker, Linux, PostgreSQL, AWS
-
-## Education
-
-B.Sc. Computer Science, University of Piraeus (2022–2026)
-Track: Software Technology and Intelligent Systems
-
-## Languages
-
-Greek and Bulgarian (native). English (C1, ECPE).
